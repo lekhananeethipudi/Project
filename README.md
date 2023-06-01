@@ -1,2 +1,2 @@
-#Railway Ticket Booking System Project
+#Project
 Railway Ticket Booking System Project
